@@ -1,0 +1,48 @@
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\winform\20170413_Ders_Uygulamalar\NotePadSharp\bin\Debug\NotePadSharp.exe.config
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\winform\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\winform\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.FrmAna.resources
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\winform\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\winform\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\winform\20170413_Ders_Uygulamalar\NotePadSharp\bin\Debug\NotePadSharp.exe
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\winform\20170413_Ders_Uygulamalar\NotePadSharp\bin\Debug\NotePadSharp.pdb
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\winform\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.exe
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\winform\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.pdb
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\winform\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.FrmAra.resources
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\winform\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.FrmHakkimizda.resources
+C:\Users\nbuy_ogrenci\Documents\Visual Studio 2013\Projects\winform\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.FrmNote.resources
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_Uygulamalar\NotePadSharp\bin\Debug\NotePadSharp.exe.config
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.exe
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.pdb
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_Uygulamalar\NotePadSharp\bin\Debug\NotePadSharp.exe
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_Uygulamalar\NotePadSharp\bin\Debug\NotePadSharp.pdb
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.csprojResolveAssemblyReference.cache
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.FrmAna.resources
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.FrmAra.resources
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.FrmHakkimizda.resources
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.FrmNote.resources
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.Properties.Resources.resources
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.csproj.GenerateResource.Cache
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_NotePad\NotePadSharp\bin\Debug\NotePadSharp.exe.config
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.exe
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.pdb
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_NotePad\NotePadSharp\bin\Debug\NotePadSharp.exe
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_NotePad\NotePadSharp\bin\Debug\NotePadSharp.pdb
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.csprojResolveAssemblyReference.cache
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.FrmAna.resources
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.FrmAra.resources
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.FrmHakkimizda.resources
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.FrmNote.resources
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.Properties.Resources.resources
+C:\Users\Acar\Desktop\bilge adam ders\C#\winForm\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.csproj.GenerateResource.Cache
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170413_Ders_NotePad\NotePadSharp\bin\Debug\NotePadSharp.exe.config
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.exe
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.pdb
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170413_Ders_NotePad\NotePadSharp\bin\Debug\NotePadSharp.exe
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170413_Ders_NotePad\NotePadSharp\bin\Debug\NotePadSharp.pdb
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.csprojResolveAssemblyReference.cache
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.FrmAna.resources
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.FrmAra.resources
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.FrmHakkimizda.resources
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.FrmNote.resources
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.Properties.Resources.resources
+C:\Users\Acar\Desktop\Ödevler Nyub\C#\winform\20170413_Ders_NotePad\NotePadSharp\obj\Debug\NotePadSharp.csproj.GenerateResource.Cache
